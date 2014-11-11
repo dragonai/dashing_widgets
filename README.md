@@ -5,7 +5,8 @@ Custom widgets I've built for [Dashing](http://dashing.io), the open-source Sina
 
 ###List of available widgets
 
-- [Atlassian JIRA Sprint Progress Meter](https://gist.github.com/dragonai/a1dae02d476f6055f82a/download#)
+- [Atlassian JIRA Sprint Progress Meter](https://gist.github.com/dragonai/a1dae02d476f6055f82a)
+- [GitHub Organization Open Pull Requests](https://gist.github.com/dragonai/9d91e0f0bc78265e8281)
 
 ###Other widgets
 
