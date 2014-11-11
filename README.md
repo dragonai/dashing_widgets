@@ -14,5 +14,5 @@ Custom widgets I've built for [Dashing](http://dashing.io), the open-source Sina
 
 ####Other widgets
 
-The full list of Dashing widgets built by other third-party developers can be found here:
+The full list of Dashing widgets built by third-party developers (including these) can be found here:
 https://github.com/Shopify/dashing/wiki/Additional-Widgets
