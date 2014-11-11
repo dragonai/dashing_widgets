@@ -9,6 +9,7 @@ Custom widgets I've built for [Dashing](http://dashing.io), the open-source Sina
 - [GitHub Organization Open Pull Requests](https://gist.github.com/dragonai/9d91e0f0bc78265e8281)
 - [OpsGenie Unacknowledged Alerts](https://gist.github.com/dragonai/83cf1aed44124ce7ac04)
 - [Rollbar Time of Last Deploy](https://gist.github.com/dragonai/fab612ffc94403b687e5)
+- [Semaphore Branch Status Monitor](https://gist.github.com/dragonai/bfa70e8e85a5f64b44aa)
 
 ###Other widgets
 
